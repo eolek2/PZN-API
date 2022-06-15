@@ -1,0 +1,5 @@
+bin/
+obj/
+/.vs/API/FileContentIndex
+*.bak
+/.vs/API/v17
